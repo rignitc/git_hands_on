@@ -1,1 +1,2 @@
-Blah test
+def printHello():
+    print("Hello")
